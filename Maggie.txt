@@ -1,0 +1,5 @@
+Turn on stove
+open maggie packet
+do maggie
+eat
+sleep
